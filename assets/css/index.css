@@ -23,7 +23,6 @@ body {
 .screen-jc-1 {
   height: 750px;
   width: 1411px;
-  background-color: black;
   float: left;
   margin: 0;
 }
@@ -41,7 +40,6 @@ body {
   right: 0;
   bottom: 0;
   position: absolute;
-  background-color: black;
   margin: 0;
 }
 
