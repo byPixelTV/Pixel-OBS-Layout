@@ -52,7 +52,7 @@ body {
   font-family: 'Fredoka', sans-serif;
   font-size: 100px;
   background: #8F00FC;
-  background: linear-gradient(to right, #c100fc 0%, #006eff 50%, #ff2600 100%);
+  background: linear-gradient(to right, #c100fc 0%, #006eff 50%, #ff2600 50%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
