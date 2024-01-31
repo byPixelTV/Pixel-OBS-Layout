@@ -13,7 +13,7 @@
 }
 
 body {
-  background: linear-gradient(300deg, darkviolet, #7b007e, #30007e, #00547e);
+  background: linear-gradient(300deg, darkviolet, #7b007e, #30007e);
   background-size: 240% 240%;
   animation: gradient-animation 20s ease infinite;
   margin: 0;
